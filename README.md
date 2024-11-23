@@ -48,9 +48,6 @@ Welcome to my GitHub profile! I'm currently pursuing a **BSc (Hons) in IT**, spe
 ![Adobe Photoshop](https://img.shields.io/badge/-Adobe%20Photoshop-31A8FF?style=flat&logo=adobe-photoshop&logoColor=white)
 ![Canva](https://img.shields.io/badge/-Canva-00C4CC?style=flat&logo=canva&logoColor=white)
 
-### API Testing:
-![Postman](https://img.shields.io/badge/-Postman-FF6C37?style=flat&logo=postman&logoColor=white)
-
 ---
 
 ## 📊 GitHub Stats:
