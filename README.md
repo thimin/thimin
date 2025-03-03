@@ -52,8 +52,8 @@ Welcome to my GitHub profile! I'm currently pursuing a **BSc (Hons) in IT**, spe
 
 ## 📊 GitHub Stats:
 
-![Thimin's GitHub Stats](https://github-readme-stats.vercel.app/api?username=thimin&show_icons=true&theme=radical)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=thimin&layout=compact&theme=radical)
+![Thimin's GitHub Stats](https://github-readme-stats.vercel.app/api?username=thimin&show_icons=true&theme=radical&cache_seconds=1800)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=thimin&layout=compact&theme=radical&cache_seconds=1800)
 
 ---
 
